@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Linkedin] (https://www.linkedin.com/in/christo-john-aa3310202/)
+[Instagram] (https://www.instagram.com/c7r.sto)
